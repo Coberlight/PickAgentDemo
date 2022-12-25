@@ -1,7 +1,7 @@
 # PickAgentDemo
 First repository I've created... 
 
-ENGLISH VERGION COMING SOON... (i don't recommend to google translate that)
+ENGLISH VERSION COMING SOON... (i don't recommend to google translate that)
 
 В общем, решил позаливать свои "программистические" наработки на GitHub, так как посчитал нужным уже сейчас копить портфолио, что может аукнуться в дальнейшем, когда мне придётся думать о чём-то типа устройства на работу. 
 
